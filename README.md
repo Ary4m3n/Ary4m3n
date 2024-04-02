@@ -5,11 +5,11 @@
 
 ## My GitHub Stats 📈
 
-![Ary4m3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Ary4m3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4m3n&show_icons=true&theme=radical)
 
 ## Most Used Languages 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ary4m3n&layout=compact)
 
 <!--
 **Ary4m3n/Ary4m3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
