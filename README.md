@@ -5,7 +5,7 @@
 
 ## My GitHub Stats 📈
 
-![Ary4m3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4m3n&show_icons=true&theme=radical)
+![Ary4m3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ary4m3n&show_icons=true)
 
 ## Most Used Languages 💻
 
